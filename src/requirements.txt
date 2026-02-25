@@ -4,6 +4,7 @@ torch
 librosa
 soundfile
 noisereduce
+pyloudnorm
 scikit-learn
 nltk
 textblob
