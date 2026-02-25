@@ -1051,3 +1051,6 @@ if st.session_state.result:
 
         st.markdown("<br>", unsafe_allow_html=True)
         st.info("💡 **Tip:** Use **Topics Report** for a human-readable summary. Use **Full JSON** to import data into other tools or scripts.")
+   
+
+   
